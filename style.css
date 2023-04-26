@@ -51,6 +51,7 @@ ul {
 }
 
 nav {
+    height: 100vh;
     background-color: black;
     color: var(--white);
     transform: translateX(-100%);
