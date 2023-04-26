@@ -175,6 +175,7 @@ nav ul li:nth-child(5) {
 
 .feature__cnt .feature__item .main-img {
     float: left;
+    padding-right: 16px;
 }
 
 .feature__cnt .feature__item p {}
